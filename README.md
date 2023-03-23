@@ -1,5 +1,6 @@
-### Hi there 👋
+<h3> Hi there 👋</h3>
 
+<p>my name's Bruna Sant' Ana and i'm currently attending computer science college</p>
 <!--
 **bruniibs/bruniibs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -11,6 +12,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: i'm very slow witted so normally it takes me a while to understand things
+--> 
