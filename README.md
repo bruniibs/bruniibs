@@ -1,6 +1,6 @@
 <h3> Hi there 👋</h3>
 
-<h6>my name's Bruna Sant' Ana and i'm currently attending computer science college</h6>
+<p>my name's Bruna Sant' Ana and i'm currently attending computer science college</p>
 <p>im 17 years old born in são paulo, brazil</p>
 <!--
 **bruniibs/bruniibs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
