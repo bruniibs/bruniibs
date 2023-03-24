@@ -18,12 +18,13 @@
 
 <div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="bru-c" height="30" width="40" src="?"
-  <img align=""
+  <img align="right" alt="bru-gif" height="180" width="180" src="https://media.discordapp.net/attachments/989309148107792454/1088620826900840508/bru.gif?width=453&height=453">
 </div>
+  
+  
+  
+  
+  
+  
   
   ##
-
-<div>
-  
-</div>
