@@ -1,5 +1,11 @@
-## Hi! im boo
-
+<div>
+<img src="./img/profile1.PNG" width="300" align="right" />
+<br/>
+<img src="./img/AboutMe-elaina.png" width="500" />
+<br/>
+<br/>
+  
+ name **Runa**
 <!--
 - 🌱 I’m currently learning HTML, CSS and C
 - 💬 Ask me about ...
