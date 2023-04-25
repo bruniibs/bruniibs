@@ -1,4 +1,4 @@
-## Oie! eu sou a Bruna Sant Ana
+## Hi! im boo
 
 <!--
 - 🌱 I’m currently learning HTML, CSS and C
