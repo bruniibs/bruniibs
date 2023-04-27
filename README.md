@@ -1,7 +1,7 @@
 <div>
 <img src="./img/profile1.PNG" width="300" align="right" />
 <br/>
-<img src="./img/AboutMe-elaina.png" width="500" />
+![aboutme1](https://user-images.githubusercontent.com/128152530/234958941-3581b7dc-fb28-4a35-b846-b20824259c1b.png)
 <br/>
 <br/>
   
