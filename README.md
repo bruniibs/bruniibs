@@ -12,6 +12,10 @@
  - studying **HTML, CSS, C** 
   
  - understand **portuguese-br and english (b2/c1)
+  
+ - mbti **INTP**
+  
+ - hogwarts house **Ravenclown**
 <!--
 - 🌱 I’m currently learning HTML, CSS and C
 - 💬 Ask me about ...
