@@ -7,6 +7,11 @@
   
  - name **Runa**
   
+ - currently living in **Brazil**
+  
+ - studying **HTML, CSS, C** 
+  
+ - understand **portuguese-br and english (b2/c1)
 <!--
 - 🌱 I’m currently learning HTML, CSS and C
 - 💬 Ask me about ...
