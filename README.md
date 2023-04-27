@@ -5,7 +5,8 @@
 <br/>
 <br/>
   
- name **Runa**
+ - name **Runa**
+  
 <!--
 - 🌱 I’m currently learning HTML, CSS and C
 - 💬 Ask me about ...
