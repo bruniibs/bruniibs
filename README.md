@@ -29,6 +29,9 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: i'm very slow witted so normally it takes me a while to understand things
 --> 
+  
+ ---------------
+ <hr>
 
 <div>
   <a href="https://github.com/bruniibs">
