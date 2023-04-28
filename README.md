@@ -17,9 +17,9 @@
   
  - hogwarts house **Ravenclown**
   
- <img src="./img/Waifu-elainaa.png" width="300" align="right" />
+<img src="./img/Waifu-elainaa.png" width="300" align="right" />
 <br/>
-<img src="./img/Repo-elaina.png" width="500" />
+<img src="https://user-images.githubusercontent.com/128152530/235156017-c0d3e7af-380a-45f9-ae2a-f695e6ac248e.png" width="500" />
 <br/>
 <br/>
 <!--
