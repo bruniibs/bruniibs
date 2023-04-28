@@ -22,6 +22,11 @@
 <img src="https://user-images.githubusercontent.com/128152530/235156017-c0d3e7af-380a-45f9-ae2a-f695e6ac248e.png" width="500" />
 <br/>
 <br/>
+  
+ 📌 [***ReadMe Inspo***](https://github.com/bruniibs/readme-inspo.git)<br>
+  Profiles i used as inspiration/reference for my own readme (readme creators credits) !
+  
+  
 <!--
 - 🌱 I’m currently learning HTML, CSS and C
 - 💬 Ask me about ...
