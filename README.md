@@ -19,7 +19,7 @@
   
 <img src="https://user-images.githubusercontent.com/128152530/234977633-49d341e1-0acb-4d8a-9087-32a0c1fdb1cb.png" width="300" align="right" />
 <br/>
-<img src="https://user-images.githubusercontent.com/128152530/235156017-c0d3e7af-380a-45f9-ae2a-f695e6ac248e.png" width="500" />
+<img src="https://github.com/bruniibs/bruniibs/assets/128152530/0a94c31c-60fc-4556-92c1-c5e08741e7b7" width="500" />
 <br/>
 <br/>
   
