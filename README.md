@@ -55,10 +55,10 @@
 <div style="display: inline_block"><br>
   <img align="right" alt="bru-gif" height="180" width="180" src="https://media.discordapp.net/attachments/989309148107792454/1088620826900840508/bru.gif?width=453&height=453">
 </div>
-  
-  
-  
-  
+
+<h1 align="center">Support Me ♥️ </h1>
+
+<a href="https://ko-fi.com/bruniibs#paypalModal" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>  
   
   
   
