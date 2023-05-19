@@ -28,10 +28,6 @@
   
  <br>
 <img src="https://github.com/bruniibs/bruniibs/assets/128152530/ccb547c1-f88e-4713-a68d-5fac1867b3fe" width="500"><br>
-  <!--
-<br>
-<img src="https://user-images.githubusercontent.com/128152530/235161873-136cb27b-2fc7-4731-995d-2ff432ce59d6.png" width="500"><br>
- -->
   
 <!--
 - 🌱 I’m currently learning HTML, CSS and C
