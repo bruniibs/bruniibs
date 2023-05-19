@@ -26,6 +26,9 @@
  📌 [***ReadMe Inspo***](https://github.com/bruniibs/readme-inspo.git)<br>
   Profiles i used as inspiration/reference for my own readme (readme creators credits) !
   
+ 🎧 [***ReadMe Inspo***](https://github.com/bruniibs/Project-curriculum.git)<br>
+  College first semester project - Curriculum !
+  
  <br>
 <img src="https://github.com/bruniibs/bruniibs/assets/128152530/ccb547c1-f88e-4713-a68d-5fac1867b3fe" width="500"><br>
   
