@@ -26,10 +26,12 @@
  📌 [***ReadMe Inspo***](https://github.com/bruniibs/readme-inspo.git)<br>
   Profiles i used as inspiration/reference for my own readme (readme creators credits) !
   
-  
+ <br>
+<img src="https://64.media.tumblr.com/466c0bf32bbd20f5628094a90676157b/6dd8ce13eedd6dae-c4/s540x810/fff6a85ecc152bfcac78cd820ba5936963b536ff.gifv" width="500"><br>
+  <!--
 <br>
 <img src="https://user-images.githubusercontent.com/128152530/235161873-136cb27b-2fc7-4731-995d-2ff432ce59d6.png" width="500"><br>
-  
+ -->
   
 <!--
 - 🌱 I’m currently learning HTML, CSS and C
