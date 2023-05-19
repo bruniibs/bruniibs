@@ -1,7 +1,7 @@
 <div>
-<img src="https://user-images.githubusercontent.com/128152530/234964829-174d4e8c-3e71-4d7b-8118-8ebf562df175.png" width="300" align="right" />
+<img src="https://github.com/bruniibs/bruniibs/assets/128152530/119dd159-6b2a-4dca-a198-bd71ef33c77d" width="300" align="right" />
 <br/>
-<img src="https://user-images.githubusercontent.com/128152530/234958941-3581b7dc-fb28-4a35-b846-b20824259c1b.png" width="500">
+<img src="https://github.com/bruniibs/bruniibs/assets/128152530/ac52b01b-6e1e-4091-a4fb-73bd01c7a2ce" width="500">
 <br/>
 <br/>
   
@@ -17,7 +17,7 @@
   
  - hogwarts house **Ravenclown**
   
-<img src="https://user-images.githubusercontent.com/128152530/234977633-49d341e1-0acb-4d8a-9087-32a0c1fdb1cb.png" width="300" align="right" />
+<img src="https://github.com/bruniibs/bruniibs/assets/128152530/88f06cae-bdba-443e-a522-66c177a9187f" width="300" align="right" />
 <br/>
 <img src="https://github.com/bruniibs/bruniibs/assets/128152530/0a94c31c-60fc-4556-92c1-c5e08741e7b7" width="500" />
 <br/>
@@ -27,7 +27,7 @@
   Profiles i used as inspiration/reference for my own readme (readme creators credits) !
   
  <br>
-<img src="https://64.media.tumblr.com/466c0bf32bbd20f5628094a90676157b/6dd8ce13eedd6dae-c4/s540x810/fff6a85ecc152bfcac78cd820ba5936963b536ff.gifv" width="500"><br>
+<img src="https://github.com/bruniibs/bruniibs/assets/128152530/ccb547c1-f88e-4713-a68d-5fac1867b3fe" width="500"><br>
   <!--
 <br>
 <img src="https://user-images.githubusercontent.com/128152530/235161873-136cb27b-2fc7-4731-995d-2ff432ce59d6.png" width="500"><br>
