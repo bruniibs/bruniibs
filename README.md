@@ -15,7 +15,7 @@
   
  - mbti **INTP**
   
- - hogwarts house **Ravenclown**
+ - hogwarts house **Ravenclawn**
   
 <img src="https://github.com/bruniibs/bruniibs/assets/128152530/88f06cae-bdba-443e-a522-66c177a9187f" width="300" align="right" />
 <br/>
