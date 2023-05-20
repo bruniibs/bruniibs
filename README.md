@@ -17,7 +17,7 @@
   
  - hogwarts house **Ravenclawn**
   
-<img src="https://github.com/bruniibs/bruniibs/assets/128152530/88f06cae-bdba-443e-a522-66c177a9187f" width="300" align="right" />
+<img src="https://github.com/bruniibs/bruniibs/assets/128152530/fb142d31-1e57-4a4c-a343-4a2a94168e07" width="300" align="right" />
 <br/>
 <img src="https://github.com/bruniibs/bruniibs/assets/128152530/0a94c31c-60fc-4556-92c1-c5e08741e7b7" width="500" />
 <br/>
@@ -56,10 +56,11 @@
   <img align="right" alt="bru-gif" height="180" width="180" src="https://media.discordapp.net/attachments/989309148107792454/1088620826900840508/bru.gif?width=453&height=453">
 </div>
 
+  <!--
 <h1 align="center">Support Me ♥️ </h1>
 
 <a href="https://ko-fi.com/bruniibs#paypalModal" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>  
   
-  
+  -->
   
   ##
