@@ -49,7 +49,7 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruniibs&layout=compact&langs_count=16&theme=gruvbox"/>
 </div>
   
-  ![snake gif](https://github.com/bruniibs/bruniibs/blob/output/github-contribution-grid-snake.svg)
+ ![snake gif](https://github.com/bruniibs/bruniibs/blob/output/github-contribution-grid-snake.svg)
 
   ##
 
