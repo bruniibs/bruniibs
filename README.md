@@ -50,6 +50,10 @@
   <a href="https://github.com/bruniibs">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=bruniibs&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruniibs&layout=compact&langs_count=16&theme=gruvbox"/>
+  <img width="63.2%" height="195px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bruniibs&theme=gruvbox"/>
+  <img width="50.5%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=bruniibs&theme=gruvbox" />
+  <img width="48.1%" height="275px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bruniibs&theme=gruvbox" />
+  <img width="48.1%" height="275px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bruniibs&theme=gruvbox" />
 </div>
   <!--
  ![snake gif](https://github.com/bruniibs/bruniibs/blob/output/github-contribution-grid-snake.svg)
