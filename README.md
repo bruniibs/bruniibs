@@ -30,7 +30,7 @@
   College first semester project - Curriculum (portuguese content) !
 
  👾 [***Project PixelArt game***](https://github.com/bruniibs/Pixelart-game.git)<br>
-  "Pixelart coloring game" using mathmatics !
+  "Pixelart coloring game" using mathmatics (currently empty) !
   
  <br>
 <img src="https://github.com/bruniibs/bruniibs/assets/128152530/ccb547c1-f88e-4713-a68d-5fac1867b3fe" width="500"><br>
