@@ -1,4 +1,4 @@
-<div align="center"> <img width="100%" src="https://github.com/bruniibs/bruniibs/assets/128152530/b2d8a1ed-2730-4c53-bb5e-cf344f4c2e9e"> 
+<div align="center"> <img width="100%" src="https://github.com/bruniibs/bruniibs/assets/128152530/b2d8a1ed-2730-4c53-bb5e-cf344f4c2e9e">
   
 <img width="40%" src="https://github.com/bruniibs/bruniibs/assets/128152530/5de36ae2-9989-48ed-9824-51b2f489bfd1" alt="Greetings" align="center">      <hr style="border: 2px solid black;">
 
@@ -16,10 +16,19 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruniibs&layout=compact&hide_border=true&title_color=821F1F&text_color=DBBDBF&bg_color=0d1117" />
 </div>
 
+##
+
+<br>
+<img src="https://github.com/bruniibs/bruniibs/assets/128152530/ad6848fe-d108-4ebb-8bed-aced2f2fe28a" align="right" >
+
 ### ・.・✫・ Repositories ꒱
  🎧 [***Project Curriculum***](https://github.com/bruniibs/Project-curriculum.git)<br>
   College first semester project - Curriculum (portuguese content) !
 
+<br>
+  <img src="https://github.com/bruniibs/bruniibs/assets/128152530/e8eba5de-a8b3-4cbf-ab5f-764f76204146" align="left" > <br>
+
+<br>
 
 <div style="display: inline_block"><br>
 <img align="center" style="display" alt="Bru-Html" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
