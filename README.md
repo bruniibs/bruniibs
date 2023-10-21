@@ -1,75 +1,47 @@
-<div>
-<img src="https://github.com/bruniibs/bruniibs/assets/128152530/119dd159-6b2a-4dca-a198-bd71ef33c77d" width="300" align="right" />
-<br/>
-<img src="https://github.com/bruniibs/bruniibs/assets/128152530/ac52b01b-6e1e-4091-a4fb-73bd01c7a2ce" width="500">
-<br/>
-<br/>
+<div align="center"> <img width="100%" src="https://github.com/bruniibs/bruniibs/assets/128152530/b2d8a1ed-2730-4c53-bb5e-cf344f4c2e9e"> 
   
- - name **Bruna**
-  
- - currently living in **Brazil**
-  
- - studying **HTML, CSS, C** 
-  
- - understand **portuguese-br and english (b2/c1)
-  
- - mbti **INTP**
-  
- - hogwarts house **Ravenclawn**
-  
-<img src="https://github.com/bruniibs/bruniibs/assets/128152530/49b69ed2-a03b-4333-ab53-ce5017ca8ade" width="300" align="right" />
-<br/>
-<img src="https://github.com/bruniibs/bruniibs/assets/128152530/0a94c31c-60fc-4556-92c1-c5e08741e7b7" width="500" />
-<br/>
-<br/>
-  
- 📌 [***ReadMe Inspo***](https://github.com/bruniibs/readme-inspo.git)<br>
-  Profiles i used as inspiration/reference for my own readme (readme creators credits) !
-  
+<img width="40%" src="https://github.com/bruniibs/bruniibs/assets/128152530/5de36ae2-9989-48ed-9824-51b2f489bfd1" alt="Greetings" align="center">      <hr style="border: 2px solid black;">
+
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Homemade+Apple&pause=2000&color=CF4F57&center=true&random=false&width=435&lines=Hang +around +for +a +spell!" alt="Typing SVG" /></a></div>
+
+### ・.・✫・ About me ꒱
+- 👻 Hi! My name's **Bruna** and I'm on my 2nd semester of Computer Science
+- 🎃 pronouns: **she/her**
+- 👻 currently studying **C** & **php**
+
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=bruniibs&show_icons=true&count_private=true&hide_border=true&title_color=821F1F&icon_color=A84848&text_color=DBBDBF&bg_color=0d1117" alt="bruniibs" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruniibs&layout=compact&hide_border=true&title_color=821F1F&text_color=DBBDBF&bg_color=0d1117" />
+</div>
+
+### ・.・✫・ Repositories ꒱
  🎧 [***Project Curriculum***](https://github.com/bruniibs/Project-curriculum.git)<br>
   College first semester project - Curriculum (portuguese content) !
 
- 👾 [***Project PixelArt game***](https://github.com/bruniibs/Pixelart-game.git)<br>
-  "Pixelart coloring game" using mathmatics (currently empty) !
-  
- <br>
-<img src="https://github.com/bruniibs/bruniibs/assets/128152530/ccb547c1-f88e-4713-a68d-5fac1867b3fe" width="500"><br>
-  
-<!--
-- 🌱 I’m currently learning HTML, CSS and C
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: i'm very slow witted so normally it takes me a while to understand things
---> 
-  
- ---------------
- <hr>
 
-<div>
-  <a href="https://github.com/bruniibs">
-  <img width="45.7%" height="195px" src="https://github-readme-stats.vercel.app/api?username=bruniibs&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-  <img width="50.5%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruniibs&layout=compact&langs_count=16&theme=gruvbox"/>
-  <img width="63.2%" height="195px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bruniibs&theme=gruvbox"/>
-  <img width="50.5%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=bruniibs&theme=gruvbox" />
-  <img width="48.1%" height="275px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bruniibs&theme=gruvbox" />
-  <img width="48.1%" height="275px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bruniibs&theme=gruvbox" />
-</div>
-  <!--
- ![snake gif](https://github.com/bruniibs/bruniibs/blob/output/github-contribution-grid-snake.svg)
--->
-  ##
-
-<div>
 <div style="display: inline_block"><br>
-  <img align="right" alt="bru-gif" height="180" width="180" src="https://media.discordapp.net/attachments/989309148107792454/1088620826900840508/bru.gif?width=453&height=453">
+<img align="center" style="display" alt="Bru-Html" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+<img align="center" style="display" alt="Bru-CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+<img align="center" alt="Bru-C" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+<img align="center" style="display" alt="Bru-PHP" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+
+
+##
+
+
+### ・.・✫・ Find me here! ꒱
+
+<div>
+  
+<a href="twitter.com/studiiesboo" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/bruna-sant-ana-72092826a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://anilist.co/user/nanaapng/" target="_blank"><img src="https://img.shields.io/badge/Myanimelist-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white" target="_blank">
+
+---
+<div align="center">
+<img width="40%" src="https://github.com/bruniibs/bruniibs/assets/128152530/a60801c0-c99a-4077-aa7d-2244da200601" alt="Hello world" style="border: 2px solid black">
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Homemade+Apple&pause=2000&color=CF4F57&center=true&random=false&width=435&lines=Time +for +a +coffing +break!" alt="Typing SVG" /></a>
 </div>
-
-  <!--
-<h1 align="center">Support Me ♥️ </h1>
-
-<a href="https://ko-fi.com/bruniibs#paypalModal" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>  
-  
-  -->
-  
-  ##
