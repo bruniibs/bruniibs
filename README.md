@@ -21,9 +21,12 @@
 <br>
 <img src="https://github.com/bruniibs/bruniibs/assets/128152530/ad6848fe-d108-4ebb-8bed-aced2f2fe28a" align="right" >
 
-### ・.・✫・ Repositories ꒱
+#### ・.・✫・ Repositories ꒱
  🎧 [***Project Curriculum***](https://github.com/bruniibs/Project-curriculum.git)<br>
-  College first semester project - Curriculum (portuguese content) !
+  College first semester project - Curriculum (portuguese content) ! <br>
+#### ・.・✫・ Repositories ꒱
+ 🐬 [***Cadastro em TXT***](https://github.com/bruniibs/CadastroTxt)<br>
+  College project second semester - Cadastro (portuguese content) ! <br>
 
 <br>
   <img src="https://github.com/bruniibs/bruniibs/assets/128152530/e8eba5de-a8b3-4cbf-ab5f-764f76204146" align="left" > <br>
