@@ -29,9 +29,9 @@
   College project second semester - Cadastro (portuguese content) ! <br>
 
 <br>
-  <img src="https://github.com/bruniibs/bruniibs/assets/128152530/e8eba5de-a8b3-4cbf-ab5f-764f76204146" align="left" > <br>
+  <!-- <img src="https://github.com/bruniibs/bruniibs/assets/128152530/e8eba5de-a8b3-4cbf-ab5f-764f76204146" align="left" > <br>
 
-<br>
+<!-- <br> -->
 <br>
 
 <div style="display: inline_block"><br>
