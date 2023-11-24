@@ -24,7 +24,6 @@
 #### ・.・✫・ Repositories ꒱
  🎧 [***Project Curriculum***](https://github.com/bruniibs/Project-curriculum.git)<br>
   College first semester project - Curriculum (portuguese content) ! <br>
-#### ・.・✫・ Repositories ꒱
  🐬 [***Cadastro em TXT***](https://github.com/bruniibs/CadastroTxt)<br>
   College project second semester - Cadastro (portuguese content) ! <br>
 
