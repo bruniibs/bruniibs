@@ -15,7 +15,7 @@ pronouns: **she/her**
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=bruniibs&show_icons=true&count_private=true&hide_border=true&title_color=3865D0&icon_color=7B7979&text_color=C0BDBD&bg_color=0d1117" alt="bruniibs" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruniibs&layout=compact&hide_border=true&title_color=3865D0&text_color=C0BDBD&bg_color=0d1117" />
   <br>
-  <img src="https://raw.githubusercontent.com/bruniibs/bruniibs/output/snake.svg" alt="Snake animation" />
+
 
 </div>
 
