@@ -8,7 +8,9 @@
 ## ・.・✫・ About me 🎐꒱
 Hi! My name's **Bruna** but i go by boosy or nana online. <br>
 Im a Brazilian Computer Science student currently learning Java and DB, in the meantime my biggest objective is to learn Json <br>
-pronouns: **she/her**
+My current interests fall into AI and Cybersecurity, but i'm still very unsure of what area i actually want to dive in... for now i'm only trying to focus on my academic life and getting better at the basics <br>
+🪼 pronouns: **she/her** <br>
+
 
 
 <div align="center">  
