@@ -1,25 +1,25 @@
-<div align="center"> <img width="100%" src="https://github.com/bruniibs/bruniibs/assets/128152530/b2d8a1ed-2730-4c53-bb5e-cf344f4c2e9e">
+<div align="center"> <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3865D0&height=120&section=header"/>
   
-<img width="40%" src="https://github.com/bruniibs/bruniibs/assets/128152530/5de36ae2-9989-48ed-9824-51b2f489bfd1" alt="Greetings" align="center">      <hr style="border: 2px solid black;">
+<img width="40%" src="https://github.com/bruniibs/bruniibs/assets/128152530/d4431994-a028-4a4c-82f4-da5fa5a2ac19" alt="Greetings" align="center">      <hr style="border: 2px solid black;">
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Homemade+Apple&pause=2000&color=CF4F57&center=true&random=false&width=435&lines=Hang +around +for +a +spell!" alt="Typing SVG" /></a></div>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Homemade+Apple&pause=2000&color=3865D0&center=true&random=false&width=435&lines=🪼 +Welcome +to +my +profile!" alt="Typing SVG" /></a></div>
 
-### ・.・✫・ About me ꒱
-- 👻 Hi! My name's **Bruna** and I'm on my 2nd semester of Computer Science
-- 🎃 pronouns: **she/her**
-- 👻 currently studying **C** & **php**
+## ・.・✫・ About me 🎐꒱
+Hi! My name's **Bruna** but i go by boosy or nana online. <br>
+Im a Brazilian Computer Science student currently learning Java and DB, in the meantime my biggest objective is to learn Json <br>
+pronouns: **she/her**
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=bruniibs&show_icons=true&count_private=true&hide_border=true&title_color=821F1F&icon_color=A84848&text_color=DBBDBF&bg_color=0d1117" alt="bruniibs" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruniibs&layout=compact&hide_border=true&title_color=821F1F&text_color=DBBDBF&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=bruniibs&show_icons=true&count_private=true&hide_border=true&title_color=3865D0&icon_color=7B7979&text_color=C0BDBD&bg_color=0d1117" alt="bruniibs" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruniibs&layout=compact&hide_border=true&title_color=3865D0&text_color=C0BDBD&bg_color=0d1117" />
 </div>
 
 ##
 
 <br>
-<img src="https://github.com/bruniibs/bruniibs/assets/128152530/ad6848fe-d108-4ebb-8bed-aced2f2fe28a" align="right" >
+<img src="https://github.com/bruniibs/bruniibs/assets/128152530/33f48909-7770-44e0-9409-06ae2aebc99e" align="right" >
 
 #### ・.・✫・ Repositories ꒱
  🎧 [***Project Curriculum***](https://github.com/bruniibs/Project-curriculum.git)<br>
@@ -27,6 +27,9 @@
   <br>
  🐬 [***Cadastro em TXT***](https://github.com/bruniibs/CadastroTxt)<br>
   College project second semester - Cadastro (portuguese content) ! <br>
+  <br>
+ 🪄 [***Plushie Emporium***](https://github.com/bruniibs/PlushieEmporium)<br>
+  College project second semester - Plush Store (portuguese content) ! <br>
 
 <br>
   <!-- <img src="https://github.com/bruniibs/bruniibs/assets/128152530/e8eba5de-a8b3-4cbf-ab5f-764f76204146" align="left" > <br>
@@ -54,7 +57,7 @@
 
 ---
 <div align="center">
-<img width="40%" src="https://github.com/bruniibs/bruniibs/assets/128152530/a60801c0-c99a-4077-aa7d-2244da200601" alt="Hello world" style="border: 2px solid black">
+<img width="40%" src="https://github.com/bruniibs/bruniibs/assets/128152530/7c56cc39-99eb-42d6-9752-eebd114a6106" alt="Hello world" style="border: 2px solid black"> <br>
+"I would give up eternity to touch you, because I know you feel me somehow, you are the closest I will be to paradise"
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Homemade+Apple&pause=2000&color=CF4F57&center=true&random=false&width=435&lines=Time +for +a +coffing +break!" alt="Typing SVG" /></a>
 </div>
