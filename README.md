@@ -2,7 +2,7 @@
   
 <img width="40%" src="https://github.com/bruniibs/bruniibs/assets/128152530/d4431994-a028-4a4c-82f4-da5fa5a2ac19" alt="Greetings" align="center">      <hr style="border: 2px solid black;">
 
-
+<h6 align="left">“The idea of eternity is impossible, but the idea of an instant lasts forever.”</h6>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Homemade+Apple&pause=2000&color=3865D0&center=true&random=false&width=435&lines=🪼 +Welcome +to +my +profile!" alt="Typing SVG" /></a></div>
 
 ## ・.・✫・ About me 🎐꒱
@@ -58,6 +58,6 @@ pronouns: **she/her**
 ---
 <div align="center">
 <img width="40%" src="https://github.com/bruniibs/bruniibs/assets/128152530/7c56cc39-99eb-42d6-9752-eebd114a6106" alt="Hello world" style="border: 2px solid black"> <br>
- <h5 fontcolor="3865D0">"I would give up eternity to touch you, because I know you feel me somehow, you are the closest I will be to paradise"</h5>
+ <h6>"I would give up eternity to touch you, because I know you feel me somehow, you are the closest I will be to paradise"</h6>
 
 </div>
