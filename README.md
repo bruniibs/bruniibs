@@ -12,7 +12,8 @@ Im a Brazilian Computer Science student currently learning Java and DB, in the m
 My current interests fall into AI and Cybersecurity, but i'm still very unsure of what area i actually want to dive in... for now i'm only trying to focus on my academic life and getting better at the basics <br>
 🪼 my top hobbies are drawing, playing games (especially cute games like stardew valley) and cosplaying!! a also do read a lot 
 
-
+<br>
+<img src="https://github.com/bruniibs/bruniibs/assets/128152530/1d0c57b4-7e6e-4d25-b2fc-0cf3a8afae47"> <br>
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=bruniibs&show_icons=true&count_private=true&hide_border=true&title_color=3865D0&icon_color=7B7979&text_color=C0BDBD&bg_color=0d1117" alt="bruniibs" /> 
@@ -51,7 +52,8 @@ My current interests fall into AI and Cybersecurity, but i'm still very unsure o
 
 
 ##
-
+<br>
+<img src="https://github.com/bruniibs/bruniibs/assets/128152530/1d0c57b4-7e6e-4d25-b2fc-0cf3a8afae47"> <br>
 
 ### ・.・✫・ Find me here! ꒱
 
