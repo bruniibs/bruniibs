@@ -58,6 +58,6 @@ pronouns: **she/her**
 ---
 <div align="center">
 <img width="40%" src="https://github.com/bruniibs/bruniibs/assets/128152530/7c56cc39-99eb-42d6-9752-eebd114a6106" alt="Hello world" style="border: 2px solid black"> <br>
-"I would give up eternity to touch you, because I know you feel me somehow, you are the closest I will be to paradise"
+ <h5 fontcolor="3865D0">"I would give up eternity to touch you, because I know you feel me somehow, you are the closest I will be to paradise"</h5>
 
 </div>
