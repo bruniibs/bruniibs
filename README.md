@@ -35,7 +35,7 @@ My current interests fall into AI and Cybersecurity, but i'm still very unsure o
  🐬 [***Cadastro em TXT***](https://github.com/bruniibs/CadastroTxt)<br>
   College project second semester - Cadastro (portuguese content) ! <br>
   <br>
- 🪄 [***Plushie Emporium***](https://github.com/bruniibs/PlushieEmporium)<br>
+ 🪄 [***Plushie Emporium***](https://github.com/bruniibs/plushie-emporium.git)<br>
   College project second semester - Plush Store (portuguese content) ! <br>
 
 <br>
