@@ -9,8 +9,8 @@
 Hi! My name's **Bruna** but i go by boosy or nana online. <br>
 🪼 pronouns: **she/her** <br>
 Im a Brazilian Computer Science student currently learning Java and DB, in the meantime my biggest objective is to learn Json <br>
-My current interests fall into AI and Cybersecurity, but i'm still very unsure of what area i actually want to dive in... for now i'm only trying to focus on my academic life and getting better at the basics <br>
-🪼 my top hobbies are drawing, playing games (especially cute games like stardew valley) and cosplaying!! a also do read a lot 
+My current interests fall into AI and Cybersecurity, but i'm still very unsure of what area i actually want to dive in... for now i'm only trying to focus on my academic life and getting better at the basics!! <br>
+🪼 my hobbies are drawing, playing games (especially cute games like stardew valley) and cosplaying!! a also do read a lot. 
 
 <br>
 <img src="https://github.com/bruniibs/bruniibs/assets/128152530/1d0c57b4-7e6e-4d25-b2fc-0cf3a8afae47"> <br>
