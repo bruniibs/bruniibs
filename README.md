@@ -28,7 +28,7 @@ My current interests fall into AI and Cybersecurity, but i'm still very unsure o
 <br>
 <img src="https://github.com/bruniibs/bruniibs/assets/128152530/33f48909-7770-44e0-9409-06ae2aebc99e" align="right" >
 
-#### ・.・✫・ Repositories ꒱
+#### ・.・✫・ Repositories 🖊️꒱
  🎧 [***Project Curriculum***](https://github.com/bruniibs/Project-curriculum.git)<br>
   College first semester project - Curriculum (portuguese content) ! <br>
   <br>
@@ -55,7 +55,7 @@ My current interests fall into AI and Cybersecurity, but i'm still very unsure o
 <br>
 <img src="https://github.com/bruniibs/bruniibs/assets/128152530/1d0c57b4-7e6e-4d25-b2fc-0cf3a8afae47"> <br>
 
-### ・.・✫・ Find me here! ꒱
+### ・.・✫・ Find me here! 🐋꒱
 
 <div>
   
