@@ -67,5 +67,6 @@ My current interests fall into AI and Cybersecurity, but i'm still very unsure o
 <div align="center">
 <img width="40%" src="https://github.com/bruniibs/bruniibs/assets/128152530/7c56cc39-99eb-42d6-9752-eebd114a6106" alt="Hello world" style="border: 2px solid black"> <br>
  <h6>"I would give up eternity to touch you, because I know you feel me somehow, you are the closest I will be to paradise"</h6>
-
+<br><br>
+<a href="https://info.flagcounter.com/RNGY"><img src="https://s01.flagcounter.com/mini/RNGY/bg_6587E6/txt_FFFFFF/border_6587E6/flags_0/" alt="Flag Counter" border="0"></a>
 </div>
