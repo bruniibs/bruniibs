@@ -69,6 +69,6 @@ My current interests fall into AI and Cybersecurity, but i'm still very unsure o
  <h6>"I would give up eternity to touch you, because I know you feel me somehow, you are the closest I will be to paradise"</h6>
 <br><br>
 <!-- FC2 Counter  Starts here -->
-<script language="javascript" type="text/javascript" src="//counter1.fc2.com/counter.php?id=40175117&main=1"></script><noscript><img src="//counter1.fc2.com/counter_img.php?id=40175117&main=1" /></noscript>
+
 <!-- FC2 Counter  Ends here -->
 </div>
