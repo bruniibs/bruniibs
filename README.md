@@ -37,6 +37,9 @@ My current interests fall into AI and Cybersecurity, but i'm still very unsure o
   <br>
  🪄 [***Peluche Emporium***](https://github.com/bruniibs/plushie-emporium.git)<br>
   College project second semester - Plush Store (portuguese content) ! <br>
+  <br>
+  🪐 [***Boosye Space***](https://github.com/bruniibs/boosyspace)<br>
+  My personal site to collect infos + links etc. (mixed pt-en content) ! <br>
 
 <br>
   <!-- <img src="https://github.com/bruniibs/bruniibs/assets/128152530/e8eba5de-a8b3-4cbf-ab5f-764f76204146" align="left" > <br>
