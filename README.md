@@ -62,7 +62,7 @@ My current interests fall into AI and Cybersecurity, but i'm still very unsure o
 
 <div>
   
-<a href="https://twitter.com/studiiesboo" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+<a href="https://twitter.com/boolean_sye" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/bruna-sant-ana-72092826a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://anilist.co/user/nanaapng/" target="_blank"><img src="https://img.shields.io/badge/anilist-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white" target="_blank"></a>
 
