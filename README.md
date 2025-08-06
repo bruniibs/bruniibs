@@ -3,7 +3,7 @@
 <img width="40%" src="https://github.com/bruniibs/bruniibs/assets/128152530/d4431994-a028-4a4c-82f4-da5fa5a2ac19" alt="Greetings" align="center">      <hr style="border: 2px solid black;">
 
 <h6 align="left">“The idea of eternity is impossible, but the idea of an instant lasts forever.”</h6>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Homemade+Apple&pause=2000&color=3865D0&center=true&random=false&width=435&lines=🪼 +Welcome +to +my +profile!" alt="welcome to my profile" /></a></div>
+<a href="https://git.io/typing-svg"><img src="/imgs/ascii-cheer-doodle.gif" alt="welcome to my profile" /></a></div>
 
 ## ・.・✫・ About me 🎐꒱
 Hi! My name's **Bruna** but i go by boo or nana online. <br>
