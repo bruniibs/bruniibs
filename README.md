@@ -10,7 +10,7 @@ Hi! My name's **Bruna** but i go by either boo or nana online. <br>
 🪼 pronouns: **she/her** <br>
 Im a Brazilian Computer Science student trying to reconcile my studies with my full time job (not related to the tech area). <br>
 I am mostly interested in AI and Cybersecurity, but i'm still very unsure of what area i actually want to dive in... for now i'm only trying to focus on my academic life :) <br>
-🪼 my hobbies are drawing, playing games (especially cute games like stardew valley) and cosplaying!! a also do read a lot. 
+🪼 my hobbies are drawing, playing games (especially cute games like stardew valley) and cosplaying!! a also do read a lot of manga and sometimes i watch some animes. 
 
 <br>
 <img src="https://github.com/bruniibs/bruniibs/assets/128152530/1d0c57b4-7e6e-4d25-b2fc-0cf3a8afae47"> <br>
