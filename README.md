@@ -15,11 +15,12 @@ I am mostly interested in AI and Cybersecurity, but i'm still very unsure of wha
 <br>
 <img src="https://github.com/bruniibs/bruniibs/assets/128152530/1d0c57b4-7e6e-4d25-b2fc-0cf3a8afae47"> <br>
 
+<!--
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-statsboo.vercel.app/api?username=bruniibs&show_icons=true&count_private=true&hide_border=true&title_color=3865D0&icon_color=7B7979&text_color=C0BDBD&bg_color=0d1117" alt="bruniibs" /> 
   <img width="41%" height="195px" src="https://github-readme-statsboo.vercel.app/api/top-langs/?username=bruniibs&layout=compact&hide_border=true&title_color=3865D0&text_color=C0BDBD&bg_color=0d1117" />
   <br>
-
+-->
 
 </div>
 
