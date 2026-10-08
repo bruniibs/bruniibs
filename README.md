@@ -35,7 +35,7 @@ I'm using CAS as a playground to explore how an intelligent assistant can mainta
 
 <br>
 
-## ✦ projects
+## ✦ projects 🖊️꒱
 
 ### 🗂️ Life OS
 A personal organization ecosystem I'm building to bring different parts of everyday life into one place.
@@ -63,7 +63,7 @@ A personal web project where I can experiment more freely with design, old-web a
 
 <br>
 
-## ✦ tech stack
+## ✦ tech stack 💿꒱
 
 **languages**
 
@@ -82,7 +82,7 @@ A personal web project where I can experiment more freely with design, old-web a
 
 <div align="center">
 
-### `connect.exe`
+### `find me here! 🐋꒱`
 
 [LinkedIn](https://www.linkedin.com/in/bruna-sant-ana05/) · [GitHub](https://github.com/bruniibs)
 
