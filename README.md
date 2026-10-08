@@ -1,9 +1,4 @@
-<div align="center">
-
-<img src="./assets/banner.png" width="100%" alt="Bruna Sant'Ana — Software Development, AI & Intelligent Systems">
-
 <br>
-
 
 I'm **Bruna Sant'Ana**, a Computer Science student from Brazil interested in building software, exploring artificial intelligence and turning random ideas into actual projects.
 
