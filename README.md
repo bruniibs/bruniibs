@@ -37,7 +37,7 @@ I'm using CAS as a playground to explore how an intelligent assistant can mainta
 
 ## ✦ projects 🖊️꒱
 
-### 🗂️ Life OS
+#### 🗂️ Life OS
 A personal organization ecosystem I'm building to bring different parts of everyday life into one place.
 
 The idea is to gradually connect modules for planning, finances, meals, fitness and other personal systems — starting small and evolving them into a larger ecosystem.
@@ -46,7 +46,7 @@ The idea is to gradually connect modules for planning, finances, meals, fitness 
 
 ---
 
-### 🌐 boosyspace
+#### 🌐 boosyspace
 My little corner of the internet.
 
 A personal web project where I can experiment more freely with design, old-web aesthetics and whatever I feel like building.
