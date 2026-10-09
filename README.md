@@ -1,3 +1,5 @@
+<img src="assets/glitterDiv.gif">
+
 <br>
 
 I'm **Bruna Sant'Ana**, a Computer Science student from Brazil interested in building software, exploring artificial intelligence and turning random ideas into actual projects.
@@ -59,7 +61,7 @@ A personal web project where I can experiment more freely with design, old-web a
 
 <br>
 
-<img src="" alt="divider">
+<img src="assets/glitterDiv.gif">
 
 <br>
 
