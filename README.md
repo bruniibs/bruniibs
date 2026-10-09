@@ -1,4 +1,4 @@
-<img src="assets/glitterDiv.gif" align="center">
+<div align="center"> <img width=100% src="assets/glitterDiv.gif"/>
 
 <br>
 
@@ -61,7 +61,7 @@ A personal web project where I can experiment more freely with design, old-web a
 
 <br>
 
-<img src="assets/glitterDiv.gif" align="center">
+<div align="center"> <img width=100% src="assets/glitterDiv.gif"/>
 
 <br>
 
