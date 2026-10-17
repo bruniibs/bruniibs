@@ -70,11 +70,11 @@ A personal web project where I can experiment more freely with design, old-web a
 
 **languages**
 
-`Python` · `Java` · `C` · `HTML` · `CSS`
+`Python` · `Java` · `JavaScript` · `HTML` · `CSS`
 
 **tools**
 
-`Git` · `GitHub` · `VS Code` · `IntelliJ IDEA` · `NetBeans`
+`Git` · `GitHub` · `VS Code` · `IntelliJ IDEA`
 
 **currently exploring**
 
