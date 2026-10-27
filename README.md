@@ -3,62 +3,52 @@
 <br>
 <br>
 
-I'm **Bruna Sant'Ana**, a Computer Science student from Brazil interested in building software, exploring artificial intelligence and turning random ideas into actual projects.
+  ### ✦ hi, i'm bruna! 🪼
 
-Currently, I'm especially interested in **AI systems, agents and software development** — learning by building things and figuring out how everything works along the way.
+  **Computer Science student · aspiring software & AI developer**
 
-`software development` · `artificial intelligence` · `computer science`
+  I'm a Brazilian CS student who loves turning ideas into little (and sometimes not-so-little) projects.
+  Currently exploring **AI systems, Python automation, and software development** — one experiment at a time.
 
+  `learning by building` · `curious about everything` · `always a work in progress` ♡
 </div>
 
 <br>
 
-## ✦ currently building
+## ✦ currently building 🛠️꒱
 
-### 🧠 CAS — Cognitive Assistant System
+### 🧠 [CAS — Cognitive Assistant System](https://github.com/bruniibs/CAS-CognitiveAiSystem)
 
-My main project: a personal AI assistant inspired by the idea of systems like **JARVIS / FRIDAY**.
+A personal AI assistant inspired by fictional systems like JARVIS and FRIDAY. My space to explore **conversational AI, context handling, API integrations, and assistant architecture** with Python and Google Gemini.
 
-I'm using CAS as a playground to explore how an intelligent assistant can maintain context, interact naturally with a user and eventually connect different tools and parts of everyday life.
-
-**Currently working on:**
-
-- persistent conversation context
-- user preferences and memory
-- LLM interactions
-- tool integration
-- assistant architecture
-- making the system increasingly autonomous and useful
-
-**Built with:** `Python` · `Gemini` · `APIs` · `Git`
-
-> status: `in development... █`
-
-[→ explore CAS](https://github.com/bruniibs/CAS-CognitiveAiSystem)
-
-<br>
-
-## ✦ projects 🖊️꒱
-
-#### 🗂️ Life OS
-A personal organization ecosystem I'm building to bring different parts of everyday life into one place.
-
-The idea is to gradually connect modules for planning, finances, meals, fitness and other personal systems — starting small and evolving them into a larger ecosystem.
-
-`Python` · `Software Design` · `WIP`
+`Python` · `Google Gemini` · `LLMs` · `APIs`  
+*Status: in development — more features planned.*
 
 ---
 
-#### 🌐 boosyspace
-My little corner of the internet.
+### 🧹 [Data Entry Toolkit](https://github.com/bruniibs/data-entry-toolkit)
 
-A personal web project where I can experiment more freely with design, old-web aesthetics and whatever I feel like building.
+A Python toolkit for working with messy data: **cleaning and standardizing tables, removing duplicates, and merging datasets**. I'm developing it with real-world data-entry workflows and repeatable automation in mind.
 
-`HTML` · `CSS` · `Web`
+`Python` · `Pandas` · `CSV` · `Data Cleaning`  
+*Status: in development.*
 
 ---
 
-`more projects loading...`
+### 🗂️ Life OS
+
+My long-term idea for a modular personal organization system. It starts with a **Python command-line task planner** that can add, list, complete, remove, and locally save tasks — with more modules and a visual interface planned for later.
+
+`Python` · `JSON` · `Modular Design`  
+*Status: CLI prototype.*
+
+---
+
+### 🌐 [boosyspace](https://github.com/bruniibs/boosyspace)
+
+My little corner of the internet, built to play with **web design, nostalgic layouts, and old-web aesthetics**. Not every project needs to be serious to teach me something! ✦
+
+`HTML` · `CSS` · `Creative Web` 
 
 <br>
 
@@ -68,17 +58,14 @@ A personal web project where I can experiment more freely with design, old-web a
 
 ## ✦ tech stack 💿꒱
 
-**languages**
-
+**Languages & web**  
 `Python` · `Java` · `JavaScript` · `HTML` · `CSS`
 
-**tools**
+**Tools & technologies**  
+`Git` · `GitHub` · `VS Code` · `IntelliJ IDEA` · `Pandas` · `JSON` · `REST APIs`
 
-`Git` · `GitHub` · `VS Code` · `IntelliJ IDEA`
-
-**currently exploring**
-
-`AI Agents` · `LLMs` · `APIs` · `Software Architecture` · `Intelligent Systems`
+**Currently learning / exploring**  
+`AI Agents` · `LLMs` · `RAG` · `Software Architecture` · `Automation`
 
 <hr>
 <br>
@@ -87,11 +74,11 @@ A personal web project where I can experiment more freely with design, old-web a
 
 ### `find me here! 🐋꒱`
 
-[LinkedIn](https://www.linkedin.com/in/bruna-sant-ana05/) · [GitHub](https://github.com/bruniibs)
+[LinkedIn](https://www.linkedin.com/in/bruna-sant-ana05/) · [GitHub](https://github.com/bruniibs) · [my little space](https://github.com/bruniibs/boosyspace)
 
 <br>
 
-`building things somewhere between software and intelligence...`
+`building things somewhere between software and imagination...`
 
 ✦　♡　✦
 
