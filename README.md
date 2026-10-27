@@ -48,7 +48,7 @@ My long-term idea for a modular personal organization system. It starts with a *
 
 My little corner of the internet, built to play with **web design, nostalgic layouts, and old-web aesthetics**. Not every project needs to be serious to teach me something! ✦
 
-`HTML` · `CSS` · `Creative Web` 
+`HTML` · `CSS` · `Creative Web` · `Blogstyle` 
 
 <br>
 
