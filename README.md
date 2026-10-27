@@ -3,7 +3,7 @@
 <br>
 <br>
 
-  ### ✦ hi, i'm bruna! 🪼
+  ### ✦ hi, i'm Bruna! 🪼
 
   **Computer Science student · aspiring software & AI developer**
 
