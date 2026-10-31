@@ -35,7 +35,7 @@ A Python toolkit for working with messy data: **cleaning and standardizing table
 
 ---
 
-#### 🗂️ Life OS
+#### 🗂️ [Life OS](https://github.com/bruniibs/Life-OS)
 
 My long-term idea for a modular personal organization system. It starts with a **Python command-line task planner** that can add, list, complete, remove, and locally save tasks — with more modules and a visual interface planned for later.
 
